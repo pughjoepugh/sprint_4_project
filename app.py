@@ -124,8 +124,7 @@ bar_fig.add_shape(
 bar_fig.add_annotation(
     x=5,  # horizontal position within the plot area
     y=45,
-    text=f"Average duration of all vehicles: {
-        vehicles['days_listed'].mean():.2f} days",
+    text="Average duration of all vehicles: 39.55 days",
     showarrow=False,
     yshift=10,  # vertical shift
     bordercolor="black",
