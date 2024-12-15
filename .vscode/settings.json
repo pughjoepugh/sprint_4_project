@@ -1,3 +1,7 @@
 {
-    "python.analysis.autoImportCompletions": true
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.autoFormatStrings": true,
+    "editor.defaultFoldingRangeProvider": "ms-python.python",
+    "editor.defaultFormatter": "ms-python.autopep8",
+    "editor.formatOnPaste": true
 }
