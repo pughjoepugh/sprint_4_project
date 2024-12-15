@@ -194,7 +194,7 @@ fig3.add_shape(
 fig3.add_annotation(
     x='van',  # horizontal position within the plot area
     y=vehicles['price'].mean()+100,
-    text=f"""Average price: ${vehicles['price'].mean():,.2f}""",
+    text="Average price: $12132.46",
     showarrow=False,
     yshift=10,  # vertical shift
     bordercolor="black",
